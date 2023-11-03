@@ -1,0 +1,352 @@
+[
+    {
+        "name": "Ayan Baqur",
+        "obj_Cell_Id": 288555039,
+        "origin_X": 88.1,
+        "origin_Y": 166.2,
+        "origin_Z": 64.8
+    },
+    {
+        "name": "Bandit Castle",
+        "obj_Cell_Id": 3184525318,
+        "origin_X": 16.9,
+        "origin_Y": 120.5,
+        "origin_Z": 115.1
+    },
+    {
+        "name": "Ahurenga",
+        "obj_Cell_Id": 263782409,
+        "origin_X": 43.0,
+        "origin_Y": 8.6,
+        "origin_Z": 0.005
+    },
+    {
+        "name": "Al-Arqas",
+        "obj_Cell_Id": 2404909115,
+        "origin_X": 183.851,
+        "origin_Y": 60.183,
+        "origin_Z": 9.326
+    },
+    {
+        "name": "Al-Jalima",
+        "obj_Cell_Id": 2240282668,
+        "origin_X": 120.359,
+        "origin_Y": 95.47,
+        "origin_Z": 90.049
+    },
+    {
+        "name": "Arwic",
+        "obj_Cell_Id": 3332964361,
+        "origin_X": 46.805,
+        "origin_Y": 4.219,
+        "origin_Z": 42.005
+    },
+    {
+        "name": "Baishi",
+        "obj_Cell_Id": 3460366343,
+        "origin_X": 12.6,
+        "origin_Y": 152.8,
+        "origin_Z": 55.1
+    },
+    {
+        "name": "Beach Fort",
+        "obj_Cell_Id": 1121845260,
+        "origin_X": 25.0,
+        "origin_Y": 84.5,
+        "origin_Z": 0.005
+    },
+    {
+        "name": "Bluespire",
+        "obj_Cell_Id": 565182487,
+        "origin_X": 48.19,
+        "origin_Y": 165.89,
+        "origin_Z": 0.005
+    },
+    {
+        "name": "Cragstone",
+        "obj_Cell_Id": 3147759680,
+        "origin_X": 169.358,
+        "origin_Y": 168.251,
+        "origin_Z": 54.005
+    },
+    {
+        "name": "Dryreach",
+        "obj_Cell_Id": 3665100843,
+        "origin_X": 132.0,
+        "origin_Y": 60.0,
+        "origin_Z": 18.005
+    },
+    {
+        "name": "Eastham",
+        "obj_Cell_Id": 3465805877,
+        "origin_X": 151.053,
+        "origin_Y": 112.61,
+        "origin_Z": 17.417
+    },
+    {
+        "name": "Eastwatch",
+        "obj_Cell_Id": 1240465427,
+        "origin_X": 70.0,
+        "origin_Y": 70.0,
+        "origin_Z": 170.005
+    },
+    {
+        "name": "Fiun",
+        "obj_Cell_Id": 955711515,
+        "origin_X": 91.0,
+        "origin_Y": 54.0,
+        "origin_Z": -0.095
+    },
+    {
+        "name": "Fort Tethana",
+        "obj_Cell_Id": 645988381,
+        "origin_X": 77.7,
+        "origin_Y": 108.1,
+        "origin_Z": 240.0
+    },
+    {
+        "name": "Freehold",
+        "obj_Cell_Id": 4062445594,
+        "origin_X": 81.8,
+        "origin_Y": 33.0,
+        "origin_Z": 0.0
+    },
+    {
+        "name": "Glenden Wood",
+        "obj_Cell_Id": 2695102501,
+        "origin_X": 96.302,
+        "origin_Y": 119.847,
+        "origin_Z": 59.955
+    },
+    {
+        "name": "Greenspire",
+        "obj_Cell_Id": 733282364,
+        "origin_X": 178.958,
+        "origin_Y": 86.57,
+        "origin_Z": 0.005
+    },
+    {
+        "name": "Hebian-to",
+        "obj_Cell_Id": 3863871535,
+        "origin_X": 138.304,
+        "origin_Y": 161.905,
+        "origin_Z": 20.04
+    },
+    {
+        "name": "Holtburg",
+        "obj_Cell_Id": 2847146009,
+        "origin_X": 84.0,
+        "origin_Y": 7.1,
+        "origin_Z": 94.0
+    },
+    {
+        "name": "Kara",
+        "obj_Cell_Id": 3122069561,
+        "origin_X": 181.2,
+        "origin_Y": 3.2,
+        "origin_Z": 167.7
+    },
+    {
+        "name": "Khayyaban",
+        "obj_Cell_Id": 2672033810,
+        "origin_X": 90.0,
+        "origin_Y": 24.553,
+        "origin_Z": 31.885
+    },
+    {
+        "name": "Kryst",
+        "obj_Cell_Id": 3894542378,
+        "origin_X": 132.7,
+        "origin_Y": 37.9,
+        "origin_Z": 20.1
+    },
+    {
+        "name": "Lin",
+        "obj_Cell_Id": 3694919697,
+        "origin_X": 59.72,
+        "origin_Y": 10.774,
+        "origin_Z": 18.958
+    },
+    {
+        "name": "Linvak Tukal",
+        "obj_Cell_Id": 2719875098,
+        "origin_X": 83.0,
+        "origin_Y": 38.0,
+        "origin_Z": 560.4
+    },
+    {
+        "name": "Lytelthorpe",
+        "obj_Cell_Id": 3229614087,
+        "origin_X": 11.723,
+        "origin_Y": 155.56,
+        "origin_Z": 33.028
+    },
+    {
+        "name": "Mayoi",
+        "obj_Cell_Id": 3862036513,
+        "origin_X": 107.417,
+        "origin_Y": 10.763,
+        "origin_Z": 29.908
+    },
+    {
+        "name": "Nanto",
+        "obj_Cell_Id": 3862822946,
+        "origin_X": 96.96,
+        "origin_Y": 37.722,
+        "origin_Z": 74.542
+    },
+    {
+        "name": "Neydisa",
+        "obj_Cell_Id": 2513829939,
+        "origin_X": 146.9,
+        "origin_Y": 71.3,
+        "origin_Z": 99.8
+    },
+    {
+        "name": "Outpost",
+        "obj_Cell_Id": 1520173060,
+        "origin_X": 23.5,
+        "origin_Y": 77.1,
+        "origin_Z": 6.0
+    },
+    {
+        "name": "Plateau",
+        "obj_Cell_Id": 1236729889,
+        "origin_X": 100.1,
+        "origin_Y": 20.8,
+        "origin_Z": 238.6
+    },
+    {
+        "name": "Qalabar",
+        "obj_Cell_Id": 2535587898,
+        "origin_X": 168.354,
+        "origin_Y": 24.618,
+        "origin_Z": 102.005
+    },
+    {
+        "name": "Redspire",
+        "obj_Cell_Id": 397541418,
+        "origin_X": 132.623,
+        "origin_Y": 25.809,
+        "origin_Z": 44.005
+    },
+    {
+        "name": "Refuge",
+        "obj_Cell_Id": 4135714867,
+        "origin_X": 145.7,
+        "origin_Y": 49.855,
+        "origin_Z": 58.005
+    },
+    {
+        "name": "Rithwic",
+        "obj_Cell_Id": 3381395496,
+        "origin_X": 113.666,
+        "origin_Y": 190.259,
+        "origin_Z": 22.005
+    },
+    {
+        "name": "Samsur",
+        "obj_Cell_Id": 2541420556,
+        "origin_X": 25.811,
+        "origin_Y": 73.853,
+        "origin_Z": 0.005
+    },
+    {
+        "name": "Sanamar",
+        "obj_Cell_Id": 869859349,
+        "origin_X": 59.1,
+        "origin_Y": 100.3,
+        "origin_Z": 52.005
+    },
+    {
+        "name": "Sawato",
+        "obj_Cell_Id": 3378184193,
+        "origin_X": 14.8,
+        "origin_Y": 0.3,
+        "origin_Z": 12.0
+    },
+    {
+        "name": "Shoushi",
+        "obj_Cell_Id": 3663003677,
+        "origin_X": 84.8,
+        "origin_Y": 99.0,
+        "origin_Z": 20.0
+    },
+    {
+        "name": "Silyun",
+        "obj_Cell_Id": 653000765,
+        "origin_X": 175.927,
+        "origin_Y": 110.334,
+        "origin_Z": 80.005
+    },
+    {
+        "name": "Stonehold",
+        "obj_Cell_Id": 1691680779,
+        "origin_X": 30.0,
+        "origin_Y": 50.0,
+        "origin_Z": 78.0
+    },
+    {
+        "name": "Timaru",
+        "obj_Cell_Id": 498466838,
+        "origin_X": 71.3873,
+        "origin_Y": 134.291,
+        "origin_Z": 90.005
+    },
+    {
+        "name": "Tou-Tou",
+        "obj_Cell_Id": 4116250676,
+        "origin_X": 152.59,
+        "origin_Y": 80.8,
+        "origin_Z": 20.005
+    },
+    {
+        "name": "Tufa",
+        "obj_Cell_Id": 2272002056,
+        "origin_X": 2.0,
+        "origin_Y": 186.9,
+        "origin_Z": 18.0
+    },
+    {
+        "name": "Uziz",
+        "obj_Cell_Id": 2724200508,
+        "origin_X": 182.919,
+        "origin_Y": 87.934,
+        "origin_Z": 20.005
+    },
+    {
+        "name": "Westwatch",
+        "obj_Cell_Id": 601489452,
+        "origin_X": 140.9,
+        "origin_Y": 86.0,
+        "origin_Z": 2.005
+    },
+    {
+        "name": "Xarabydun",
+        "obj_Cell_Id": 2471165985,
+        "origin_X": 108.3,
+        "origin_Y": 6.1,
+        "origin_Z": 18.1
+    },
+    {
+        "name": "Yanshi",
+        "obj_Cell_Id": 3027173406,
+        "origin_X": 75.2,
+        "origin_Y": 124.1,
+        "origin_Z": 34.69
+    },
+    {
+        "name": "Yaraq",
+        "obj_Cell_Id": 2103705613,
+        "origin_X": 31.9,
+        "origin_Y": 104.6,
+        "origin_Z": 11.9
+    },
+    {
+        "name": "Zaikhal",
+        "obj_Cell_Id": 2156920851,
+        "origin_X": 64.863,
+        "origin_Y": 55.687,
+        "origin_Z": 124.005
+    }
+]

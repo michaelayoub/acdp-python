@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "io.ayoub.acdp.proto";
+
+message POI {
+    string name = 1;
+    uint64 obj_cell_id = 2;
+    double origin_x = 3;
+    double origin_y = 4;
+    double origin_z = 5;
+}
+
+message POIsDB {
+    repeated POI pois = 1;
+}
